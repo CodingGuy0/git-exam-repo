@@ -1,1 +1,1 @@
-# git-exam-repo
+nika akimchevi
